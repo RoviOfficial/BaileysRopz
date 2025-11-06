@@ -1,3 +1,8 @@
+// 🌈 Fancy Console Message
+console.log("\x1b[35m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x1b[0m");
+console.log("\x1b[32m🤖 Terimakasih sudah menggunakan Baileys saya!\x1b[0m");
+console.log("\x1b[36m📢 Telegram: @RopiyyypXR\x1b[0m");
+console.log("\x1b[35m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\x1b[0m");
 const request = require('request-promise-native');
 const acorn = require('acorn');
 const walk = require('acorn-walk');
